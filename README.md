@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 Carlos Victor
 
-<!--
-**carlosvictordev/carlosvictordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Me chamo Carlos Victor, sou estudante e desenvolvedor, atuo na área de programação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou focado em evoluir minhas habilidades em Front-End e Back-End, buscando me tornar um desenvolvedor cada vez mais completo.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+- SaSS
+
+### Back-End
+- Node.js
+
+### Linguagens de Programação
+- JavaScript
+- Python
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Atualmente estudando
+- React avançado
+- Node.js com servidores web
+- Lógica de programação aplicada ao Front-End e Back-End
+
+---
+
+## 📫 Contato
+
+- Email: carlos@rexenergia.com.br
+- GitHub: https://github.com/carlosvictordev
+
+---
+
+## ⚡ Frase que me representa
+
+_"A consistência supera o talento quando o talento não é consistente."_
