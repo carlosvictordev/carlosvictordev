@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Me chamo Carlos Victor, sou estudante e desenvolvedor, atuo na área de programação e desenvolvimento web.
+Olá! Me chamo Carlos Victor, sou estudante de CeT(UFERSA) e desenvolvedor, atuo na área de programação e desenvolvimento web.
 
 Atualmente estou focado em evoluir minhas habilidades em Front-End e Back-End, buscando me tornar um desenvolvedor cada vez mais completo.
 
@@ -20,6 +20,7 @@ Atualmente estou focado em evoluir minhas habilidades em Front-End e Back-End, b
 
 ### Back-End
 - Node.js
+- MongoDB & Atlas
 
 ### Linguagens de Programação
 - JavaScript
