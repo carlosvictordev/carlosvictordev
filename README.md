@@ -44,6 +44,7 @@ Atualmente estou focado em evoluir minhas habilidades em Front-End e Back-End, b
 
 - Email: carlos@rexenergia.com.br
 - GitHub: https://github.com/carlosvictordev
+- Portfólio: https://carlosdev-ten.vercel.app/
 
 ---
 
