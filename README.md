@@ -101,7 +101,7 @@ Atualmente estou focado em evoluir minhas habilidades em **Front-End** e **Back-
 
 | Canal | Link |
 |-------|------|
-| 📧 **Email** | [carlos@rexenergia.com.br](mailto:carlos@rexenergia.com.br) |
+| 📧 **Email** | [carlosvictorlimadecarvalho@gmail.com](mailto:carlosvictorlimadecarvalho@gmail.com) |
 | 🐙 **GitHub** | [github.com/carlosvictordev](https://github.com/carlosvictordev) |
 | 🌐 **Portfólio** | [carlosdev-ten.vercel.app](https://carlosdev-ten.vercel.app/) |
 
